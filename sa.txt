@@ -3,3 +3,9 @@ int main()
 {
 printf("hello world");
 }
+
+#inclide<stdio.h>
+int main()
+{
+printf("iam subbu");
+}
